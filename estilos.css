@@ -1,0 +1,41 @@
+
+
+.{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.contain{
+    max-width: 60%;
+    margin: 0 auto;
+    border: solid 1px;
+    color:black;
+    padding: 130px;
+    font-family:'Prompt', sans-serif;
+}
+.border{
+    border-bottom: solid 3px;
+    color: black;
+    padding-top: 15px;
+
+}
+.imagen{
+    margin: 130px 50px 50px 130px;
+    width: 200px;
+    border-style: initial;
+}
+
+.name{
+    background-color: lightcyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:'Archivo', sans-serif;
+}
+.casa{
+    color: black; font-size: 15px;
+}
+ 
+
+
